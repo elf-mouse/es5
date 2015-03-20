@@ -1,0 +1,3 @@
+/**
+ * JSON.parse(text[, reviver])
+ */

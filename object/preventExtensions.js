@@ -1,0 +1,3 @@
+/**
+ * Object.preventExtensions(obj)
+ */
